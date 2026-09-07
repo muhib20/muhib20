@@ -1,4 +1,4 @@
-MSc Data Science graduate based in London, working on fraud detection, graph machine learning and model explainability.
+MSc Data Science (Distinction) graduate based in London, working on fraud detection, graph machine learning and model explainability.
 
 My dissertation built a Temporal Graph Attention Network for card-not-present fraud detection and validated its explanations against a random baseline — the pinned repo has the full write-up, including why the graph model lost to gradient boosting and what that tells you about the data.
 
